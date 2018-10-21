@@ -6,5 +6,5 @@ numpy
 scipy
 seaborn
 sklearn
-
+ipykernel
 
