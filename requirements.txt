@@ -7,4 +7,6 @@ scipy
 seaborn
 sklearn
 ipykernel
+keras
+tensorflow
 
